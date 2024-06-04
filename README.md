@@ -31,16 +31,21 @@ Después de completar el curso, tu proyecto estará completo, con las series reg
 ### Progreso by sanchezluys 2024
 
 
-| Clase | Tema                  | Estado/Observación |
-| ----- | --------------------- | ------------------ |
-| 01-04 | Utilizando Spring web |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
-| a     | b                     |                    |
+| Clase | Tema                                                                                | Estado/Observación |
+| ----- | ----------------------------------------------------------------------------------- | ------------------ |
+| 01-04 | Utilizando Spring web                                                               |                    |
+|       | Se revisan los errores en el navegador                                              |                    |
+|       | dan error top5, lanzamientos y series                                               |                    |
+|       |                                                                                     |                    |
+|       | En Spring a la app java es necesario convertirla en una api                         |                    |
+|       | Se hace necesario agregar otra dependencia                                          |                    |
+|       | 1. spring-boot-starter-web                                                          |                    |
+|       |                                                                                     |                    |
+|       | la clase screenmatchaplicattion debe ser reestructurada                             |                    |
+|       | para evitar perder el archivo se copia y se paga como screenmacthaplicattionConsola |                    |
+|       |                                                                                     |                    |
+|       |                                                                                     |                    |
+|       |                                                                                     |                    |
 
 
 - lista con guion
