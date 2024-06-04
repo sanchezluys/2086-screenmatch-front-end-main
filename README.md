@@ -24,3 +24,99 @@ Después de completar el curso, tu proyecto estará completo, con las series reg
 
 
 # Buenos estudios!
+
+---
+
+
+### Progreso by sanchezluys 2024
+
+
+| Clase | Tema                  | Estado/Observación |
+| ----- | --------------------- | ------------------ |
+| 01-04 | Utilizando Spring web |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+| a     | b                     |                    |
+
+
+- lista con guion
+- lista
+    - list
+
+1. dato ordenados
+2. datos
+3. 
+
+# uno
+## dos
+### tres
+#### cuatro
+
+*texto italico*
+_texto italico_
+
+
+**texto bold**
+
+link:
+[link ejemplo](https:credicelu.net)
+
+agregando una imagen
+![nombre imagen](https:credicelu.net)
+
+citas:
+
+> esta es una cita
+>
+
+tabla
+
+| uno | dos | tres |
+| --- | --- | ---- |
+| a   | b   | c    |
+
+
+lineas divisorias con tres guiones
+
+---
+
+lista de selecciones
+
+- [x] comple
+- [ ] dos
+
+emoticones:
+
+:smile: :heart: :computer: :man: 
+
+
+bloque de codigo:
+
+`
+esto es codigo
+`
+
+```javascript
+function(){
+    
+}
+```
+
+indice o tabla de contenidos
+
+# tabla de contenidos
+
+- [introduccion](#intro)
+- [paso 1](#paso1)
+- [paso 2](#paso2)
+
+ ## paso 1{#paso1}
+aqui es el paso 1
+
+## paso 2 {#paso2}
+este es el paso 2
+
